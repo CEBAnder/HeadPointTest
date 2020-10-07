@@ -1,0 +1,9 @@
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\bin\Debug\netstandard2.0\HeadPointTest.deps.json
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\bin\Debug\netstandard2.0\HeadPointTest.dll
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\bin\Debug\netstandard2.0\HeadPointTest.pdb
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\obj\Debug\netstandard2.0\HeadPointTest.csprojAssemblyReference.cache
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\obj\Debug\netstandard2.0\HeadPointTest.AssemblyInfoInputs.cache
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\obj\Debug\netstandard2.0\HeadPointTest.AssemblyInfo.cs
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\obj\Debug\netstandard2.0\HeadPointTest.csproj.CoreCompileInputs.cache
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\obj\Debug\netstandard2.0\HeadPointTest.dll
+C:\Users\sevap\Desktop\HeadPoint\HeadPointTest\HeadPointTest\obj\Debug\netstandard2.0\HeadPointTest.pdb
